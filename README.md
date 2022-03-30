@@ -1,2 +1,0 @@
-# Cloud-School-Application
-Project
