@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Taiwo is getting into SCA-Cloud-School-Application'
+                echo 'Taiwo is getting into SCA-Cloud-School-Application.'
             }
         }
     }
