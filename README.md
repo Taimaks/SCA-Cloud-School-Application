@@ -54,3 +54,7 @@ You can check the status of the Jenkins service using the command:
 Connect to Jenkins
 -------------------
 Open Jenkins on web browser with your instance IP with port 8080
+
+Instance ip with port for Jenkins:
+----------------------------------
+3.95.63.63:8080
